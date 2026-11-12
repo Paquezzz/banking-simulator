@@ -1,0 +1,23 @@
+# Compiled C files
+*.o
+*.out
+*.exe
+*.a
+
+# Program executable
+banking-simulator
+
+# Data files created while running
+*.dat
+*.bin
+*.tmp
+
+# Debugging files
+*.log
+core
+core.*
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
